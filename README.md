@@ -3,6 +3,9 @@ This bot performs the following:
 • This Bot finds the age.
 • This Bot takes less time to produce the age of user.
 • This is a simple and reusable bot to generate age of user.
+
+
+
 PREREQUESTS:
 • Automation Anywhere Enterprise v10.7 & above
 INSTALLATION:
@@ -15,8 +18,15 @@ continue.
 • Click Install to begin the installation.
 • Click Finish to complete the installation.
 • To view the installation, go to 'My Tasks' folder on AAE Client to see bot files.
+
+
+
 UNINSTALLATION:
 • Open Add/Remove Programs -> Select the Bot/Digital Worker to be installed
 • Click on uninstall.
+
+
+
 TRY OUT:
-* You can try that age calculator using through 
+* You can try that age calculator using through  in this link http://127.0.0.1:5500/index.html...
+
